@@ -24,6 +24,10 @@ https://jojoldu.tistory.com/539
 - Dto
   https://tecoble.techcourse.co.kr/post/2021-04-25-dto-layer-scope/
 
+- Builder 패턴
+  https://readystory.tistory.com/121
+
+- 트랜잭션 스크립트 패턴 vs 도메인 모델 패턴
 
 # ETC
 
