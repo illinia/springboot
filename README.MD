@@ -78,6 +78,17 @@ https://jojoldu.tistory.com/539
   https://ict-nroo.tistory.com/129
   https://webcoding-start.tistory.com/53
 
+# Chapter 04
+## 머스테치로 화면 구성하기
+
+- @Transactional(readOnly = true), 영속성 컨텍스트
+
+  https://willseungh0.tistory.com/75
+  https://velog.io/@seongwon97/Spring-Boot-영속성-컨텍스트Persistence-Context
+
+- Stream, collect
+
+  https://codechacha.com/ko/java8-stream-collect/
 
 # ETC
 ## Oh-My-Zsh git aliases
