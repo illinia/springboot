@@ -73,9 +73,10 @@ https://jojoldu.tistory.com/539
 
   https://easybrother0103.tistory.com/64
 
-- @MappedSuperclass
+- @MappedSuperclass, @EntityListeners, @AuditingEntityListener
 
   https://ict-nroo.tistory.com/129
+  https://webcoding-start.tistory.com/53
 
 
 # ETC
