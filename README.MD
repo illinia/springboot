@@ -69,10 +69,13 @@ https://jojoldu.tistory.com/539
 
   https://tecoble.techcourse.co.kr/post/2021-05-25-transactional/
 
-- @ResponseEntity, @TestRestTemplate
+- @HttpEntity, @RequestEntity, @ResponseEntity, @TestRestTemplate
 
   https://easybrother0103.tistory.com/64
 
+- @MappedSuperclass
+
+  https://ict-nroo.tistory.com/129
 
 
 # ETC
