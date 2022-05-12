@@ -90,6 +90,17 @@ https://jojoldu.tistory.com/539
 
   https://codechacha.com/ko/java8-stream-collect/
 
+# Chapter 05
+## 스프링 시큐리티와 OAuth 2.0으로 로그인 기능 구현하기
+
+- @GeneratedValue
+
+  https://gmlwjd9405.github.io/2019/08/12/primary-key-mapping.html
+
+- @EnableWebSecurity
+
+  
+
 # ETC
 ## Oh-My-Zsh git aliases
 https://kapeli.com/cheat_sheets/Oh-My-Zsh_Git.docset/Contents/Resources/Documents/index
