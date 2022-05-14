@@ -97,10 +97,19 @@ https://jojoldu.tistory.com/539
 
   https://gmlwjd9405.github.io/2019/08/12/primary-key-mapping.html
 
-- @EnableWebSecurity
+- @HttpSession
 
+  https://lindarex.github.io/concepts/java-httpsession-introduction/
+
+- meta-annotation
+
+  https://velog.io/@gillog/Spring-Annotation-정리
+  
   
 
 # ETC
 ## Oh-My-Zsh git aliases
 https://kapeli.com/cheat_sheets/Oh-My-Zsh_Git.docset/Contents/Resources/Documents/index
+
+## 스프링 주요 어노테이션
+https://dev.to/composite/-40c0
