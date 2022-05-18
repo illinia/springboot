@@ -105,6 +105,14 @@ https://jojoldu.tistory.com/539
 
   https://velog.io/@gillog/Spring-Annotation-정리
   
+- @WithMockUser
+
+  https://shinsunyoung.tistory.com/94
+  https://gaemi606.tistory.com/entry/Spring-Boot-Spring-Security-Test-WithMockUser를-커스터마이징-해서-사용하자
+
+- MediaType
+
+  https://ecsimsw.tistory.com/entry/Spring-MVC-핸들러-미디어-타입-지정
   
 
 # ETC
