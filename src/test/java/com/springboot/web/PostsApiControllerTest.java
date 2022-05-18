@@ -158,10 +158,6 @@ public class PostsApiControllerTest {
         mvc.perform(delete(url)
                 .contentType(MediaType.APPLICATION_JSON)).andExpect(status().isOk());
 
-<<<<<<< HEAD
         assertThat(postsRepository.findById(deleteId)).isEmpty();
-=======
-        assertThat(postsRepository.findById(deleteId).isEmpty());
->>>>>>> 1083045648c9a133c1b1262b5a61447ae54c16a0
     }
 }

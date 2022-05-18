@@ -113,7 +113,6 @@ https://jojoldu.tistory.com/539
 - MediaType
 
   https://ecsimsw.tistory.com/entry/Spring-MVC-핸들러-미디어-타입-지정
-<<<<<<< HEAD
 
 # Chapter 06
 ## AWS 서버 환경을 만들어보자
@@ -123,9 +122,6 @@ https://jojoldu.tistory.com/539
 
 # Chapter 08
 ## 스프링 시큐리티와 OAuth 2.0으로 로그인 기능 구현하기
-=======
-  
->>>>>>> 1083045648c9a133c1b1262b5a61447ae54c16a0
 
 # ETC
 ## Oh-My-Zsh git aliases
