@@ -123,6 +123,9 @@ https://jojoldu.tistory.com/539
 # Chapter 08
 ## 스프링 시큐리티와 OAuth 2.0으로 로그인 기능 구현하기
 
+# Chapter 09
+## 코드가 푸시되면 자동으로 배포해 보자
+
 # ETC
 ## Oh-My-Zsh git aliases
 https://kapeli.com/cheat_sheets/Oh-My-Zsh_Git.docset/Contents/Resources/Documents/index
