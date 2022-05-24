@@ -130,5 +130,5 @@ https://jojoldu.tistory.com/539
 ## Oh-My-Zsh git aliases
 https://kapeli.com/cheat_sheets/Oh-My-Zsh_Git.docset/Contents/Resources/Documents/index
 
-## 스프링 주요 어노테이션
+## 스프링 주요 어노테이션 
 https://dev.to/composite/-40c0
