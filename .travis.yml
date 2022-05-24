@@ -41,6 +41,8 @@ deploy:
     deployment_group: taemin-springboot2-webservice-group
     region: ap-northeast-2
     wait-until-deployed: true
+    on:
+      all_branches: true
 
 notifications:
   email:
