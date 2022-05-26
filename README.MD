@@ -121,10 +121,13 @@ https://jojoldu.tistory.com/539
 ## AWS에 데이터베이스 환경을 만들어보자
 
 # Chapter 08
-## 스프링 시큐리티와 OAuth 2.0으로 로그인 기능 구현하기
+## EC2 서버에 프로젝트를 배포해 보자
 
 # Chapter 09
-## EC2 서버에 프로젝트를 배포해 보자
+## 코드가 푸시되면 자동으로 배포해 보자
+
+# Chapter 10
+## 24시간 365일 중단 없는 서비스를 만들자
 
 # ETC
 ## Oh-My-Zsh git aliases
