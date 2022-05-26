@@ -124,7 +124,7 @@ https://jojoldu.tistory.com/539
 ## 스프링 시큐리티와 OAuth 2.0으로 로그인 기능 구현하기
 
 # Chapter 09
-## 코드가 푸시되면 자동으로 배포해 보자 
+## EC2 서버에 프로젝트를 배포해 보자
 
 # ETC
 ## Oh-My-Zsh git aliases
@@ -132,3 +132,40 @@ https://kapeli.com/cheat_sheets/Oh-My-Zsh_Git.docset/Contents/Resources/Document
 
 ## 스프링 주요 어노테이션 
 https://dev.to/composite/-40c0
+
+## 스크립트
+```text
+#!/bin/bash -> 스크립트 시작
+
+VALUE=/home/ec2-user/app/step2 -> 경로 변수
+
+echo -> 출력
+
+pgrep -fl -> 명령어 경로 출력
+    ps + grep 합친 명령어
+    ps: 현재 실행중 프로세스 목록
+    grep: 텍스트에서 원하는 문자열 찾아 출력
+    
+awk -> 파일로부터 레코드 선택, 조작 하는 목적
+
+if 문
+    if [ -z "$CURRENT_PID" ]; then
+    문자열 길이가 0이면
+    else
+fi
+
+kill -15 작업 종료 -9 강제 종료
+
+sleep 5 5초 정지
+
+ls -tr -t: 파일 수정 시간 정렬 -r: 내림차순
+
+tail -n 1 -> 마지막 행 기준 일부 출력 명령어, 마지막 1라인
+
+chmod +x $JAR_NAME -> 파일 모드 변경
+https://recipes4dev.tistory.com/175
+
+nohup -> 세션 연결 종료시에도 프로그램 종료 안되게
+nohup $JAR_HOME > $REPOSITORY/nohup.out 2>&1 &
+    -> 1번째 파일 로그를 2번째 파일에, 에러도 출력과 같은 파일에
+```
