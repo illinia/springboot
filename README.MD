@@ -129,6 +129,14 @@ https://jojoldu.tistory.com/539
 # Chapter 10
 ## 24시간 365일 중단 없는 서비스를 만들자
 
+- stream findAny, findFirst 차이
+
+  https://codechacha.com/ko/java8-stream-difference-findany-findfirst/
+
+- 람다식 contains
+
+  http://yoonbumtae.com/?p=2776
+
 # ETC
 ## Oh-My-Zsh git aliases
 https://kapeli.com/cheat_sheets/Oh-My-Zsh_Git.docset/Contents/Resources/Documents/index
