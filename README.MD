@@ -144,7 +144,7 @@ https://kapeli.com/cheat_sheets/Oh-My-Zsh_Git.docset/Contents/Resources/Document
 ## 스프링 주요 어노테이션 
 https://dev.to/composite/-40c0
 
-## 스크립트
+## 스크립트 
 ```text
 #!/bin/bash -> 스크립트 시작
 
