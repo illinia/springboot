@@ -18,8 +18,6 @@ do
 
   echo "> RESPONSE: $RESPONSE"
 
-  echo "${RESPONSE} | grep 'real' | wc -1"
-
   UP_COUNT=$(echo ${RESPONSE} | grep 'real' | wc -1)
 
 
