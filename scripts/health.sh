@@ -18,7 +18,9 @@ do
 
   echo "> RESPONSE: $RESPONSE"
 
-  UP_COUNT=$(echo ${RESPONSE} | grep 'real' | wc -1)
+  echo "${RESPONSE} | grep 'real' | wc -1"
+
+  UP_COUNT=$(echo ${RESPONSE} | grep 'real' | wc -l)
 
 
   if [ ${UP_COUNT} -ge 1 ]
