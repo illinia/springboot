@@ -137,6 +137,14 @@ https://jojoldu.tistory.com/539
 
   http://yoonbumtae.com/?p=2776
 
+- curl
+
+  https://www.lesstif.com/software-architect/curl-http-get-post-rest-api-14745703.html
+
+- lsof
+
+  https://www.lesstif.com/system-admin/lsof-20776078.html
+
 # ETC
 ## Oh-My-Zsh git aliases
 https://kapeli.com/cheat_sheets/Oh-My-Zsh_Git.docset/Contents/Resources/Documents/index
@@ -179,4 +187,12 @@ https://recipes4dev.tistory.com/175
 nohup -> 세션 연결 종료시에도 프로그램 종료 안되게
 nohup $JAR_HOME > $REPOSITORY/nohup.out 2>&1 &
     -> 1번째 파일 로그를 2번째 파일에, 에러도 출력과 같은 파일에
+    
+curl -s -o /dev/null -w "%{http_code}" http://localhost/profile
+    -> 응답코드 받기
+    
+lsof -ti tcp:${IDLE_PORT}
+    -> pid번호만 추출
+    
+
 ```
